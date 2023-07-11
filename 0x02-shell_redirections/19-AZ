@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "input" | tr 'ac' 'ze' | tr 'AC' 'ZE'
+echo $word | tr Ac Ze
